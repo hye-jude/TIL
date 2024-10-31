@@ -12,4 +12,4 @@ Today I Learned
 
 ## SQL
 
-## EMR 데이터 정제, 가공
+## EMR
