@@ -9,3 +9,7 @@ Today I Learned
 * matplotlib https://matplotlib.org/stable/gallery/index.html
 * BOJ https://www.acmicpc.net/
 * 
+
+## SQL
+
+## EMR 데이터 정제, 가공
