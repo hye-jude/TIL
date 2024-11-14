@@ -16,3 +16,5 @@ Today I Learned
 ## EMR
 * EMR 시스템 구성도 참고 https://drdollah.com/clinical-information-system/creation-and-use-of-the-electronic-medical-record/
 * 
+
+## QSAR modeling
